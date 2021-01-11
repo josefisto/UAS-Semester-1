@@ -123,4 +123,4 @@ Hapus data
 
 **Flowchart:**
 
-![output-praktikum-5](images/flowchart.png)
+![output-praktikum-5](images/Flowchart.png)
